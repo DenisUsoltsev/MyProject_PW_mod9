@@ -1,0 +1,28 @@
+{
+  "name": "myproject_pw_mod9",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "eslint": "^9.16.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "globals": "^15.13.0",
+    "parcel": "^2.13.2",
+    "prettier": "^3.4.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@sentry/browser": "^7.114.0",
+    "@sentry/integrations": "^7.114.0",
+    "@sentry/tracing": "^7.114.0"
+  }
+}
